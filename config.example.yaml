@@ -1,5 +1,7 @@
-Kdniao:
-  apikey: aaaaa
-  userID: 100001
+KDNiao:
+  APIKEY: 你的APIKEY
+  EBusinessID: 你的EBusinessID
+  RequestType: 1002   # 使用的接口类型
+  DataType: 2   # 返回值类型，默认使用2 json类型
 
 # apikey和userID 需要去快递鸟的个人信息中去获取
